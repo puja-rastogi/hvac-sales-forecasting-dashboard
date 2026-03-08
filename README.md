@@ -68,11 +68,10 @@ Business Intelligence dashboards like this allow companies to move from **reacti
 - Business Intelligence Analysis  
 
 
-## Dashboard Preview
 
 
 
 ## Files Included
-- `CIS405-Group Project.pbix` – Power BI dashboard file  
 - `hvac-dashboard-preview.png` – dashboard visualization preview  
 - `README.md` – project documentation
+  
