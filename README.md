@@ -19,6 +19,8 @@ Key analytical steps included:
 
 ## Dashboard Visualizations
 
+![HVAC Dashboard](hvac-dashboard-preview.png)
+
 ### Seasonal Sales Performance by City
 This clustered bar chart compares HVAC sales across multiple cities and seasons. Each city is segmented by **Winter, Spring, Summer, and Fall** to highlight seasonal demand trends.
 
@@ -68,7 +70,6 @@ Business Intelligence dashboards like this allow companies to move from **reacti
 
 ## Dashboard Preview
 
-![HVAC Dashboard](hvac-dashboard-preview.png)
 
 
 ## Files Included
