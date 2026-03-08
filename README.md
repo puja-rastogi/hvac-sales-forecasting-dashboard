@@ -72,6 +72,7 @@ Business Intelligence dashboards like this allow companies to move from **reacti
 
 
 ## Files Included
+- `hvac-sales-forecasting-dashboard.pbix` – Power BI dashboard file  
 - `hvac-dashboard-preview.png` – dashboard visualization preview  
 - `README.md` – project documentation
   
