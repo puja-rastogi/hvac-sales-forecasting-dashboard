@@ -9,6 +9,20 @@ The goal of this analysis is to help organizations better **anticipate seasonal 
 ## Dataset & Analysis
 The analysis combines HVAC sales transaction data with geographic and seasonal indicators to explore demand patterns across different cities and regions.
 
+## Dataset
+
+[HVAC data set](hvac-sales-data.xlsx)
+
+The dataset contains HVAC sales transaction records across multiple U.S. cities and seasons.  
+Fields include:
+
+- City
+- Region
+- Season
+- Product Category
+- Quantity Sold
+- Total Sale Amount
+
 Key analytical steps included:
 
 - Identifying **seasonal trends in HVAC product demand**
@@ -73,6 +87,8 @@ Business Intelligence dashboards like this allow companies to move from **reacti
 
 ## Files Included
 - `hvac-sales-forecasting-dashboard.pbix` – Power BI dashboard file  
-- `hvac-dashboard-preview.png` – dashboard visualization preview  
+- `hvac-dashboard-preview.png` – dashboard visualization preview
+- `hvac-sales-data.xlsx` – dataset used for analysis    
 - `README.md` – project documentation
+
   
